@@ -18,7 +18,7 @@
  `$ cat mfile.txt`
  + **rm** *удаление файла*
  `$ rm example.txt` 
- + **rmdir** *удаление папки
+ + **rmdir** *удаление папки*
  + **rm -r** *удаление папок и файлов внутри директории и самой директории* 
  + && *последовательность команд*
  `$ mkdir second-project && cd second-project && touch index.html` 
